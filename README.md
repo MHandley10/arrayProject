@@ -18,7 +18,17 @@ They are:
 **Merge Sort**
 To complete this I need to create the merge sort algorithm and then implement it into Java
 
-**Deadline = 18/03/2022**
+*Deadline = 18/03/2022*
+
+**Testing for Merge Sort**
+To be completed alongside and built upon after completion of initial program
+
+*Deadline = TBD*
+
+**Testing for Bubble Sort**
+To be completed to test the algorithm and be used to improve it
+
+*Deadline = None necessary to be completed asap*
 
 ## Completed Items
 
