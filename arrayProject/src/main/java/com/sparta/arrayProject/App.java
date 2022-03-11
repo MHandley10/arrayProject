@@ -11,6 +11,6 @@ public class App {
         BubbleSort.bubbleSort(array1);
         BubbleSort.bubbleSort(array2);
         System.out.println(Arrays.toString(myArray));
-        System.out.println(MergeSort.mergeSort(array1, array2));
+        System.out.println(Arrays.toString(MergeArrays.mergeArrays(array1, array2)));
         }
     }
