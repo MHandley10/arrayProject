@@ -32,9 +32,7 @@ To be completed to test the algorithm and be used to improve it
 
 ## Completed Items
 
-**Merging two ordered arrays (from lowest to highest)**
-Completed *11/03/2022*
+**Merging two ordered arrays (from lowest to highest)** - Completed *11/03/2022*
 
-**Bubble Sort**
-Completed *08/03/2022*
+**Bubble Sort** - Completed *08/03/2022*
 
