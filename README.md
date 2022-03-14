@@ -15,11 +15,6 @@ They are:
 
 ## Items to complete
 
-**Merge Sort**
-To complete this I need to create the merge sort algorithm and then implement it into Java
-
-*Deadline = 18/03/2022*
-
 **Testing for Merge Sort**
 To be completed alongside and built upon after completion of initial program
 
@@ -36,3 +31,4 @@ To be completed to test the algorithm and be used to improve it
 
 **Bubble Sort** - Completed *08/03/2022*
 
+**Merge Sort** - Completed *14/03/2022*
