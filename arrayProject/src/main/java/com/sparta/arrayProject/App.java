@@ -13,6 +13,6 @@ public class App {
         BubbleSort.bubbleSort(array2);
         System.out.println(Arrays.toString(myArray));
         System.out.println(Arrays.toString(MergeArrays.mergeArrays(array1, array2)));
-        System.out.println(SplitMergeSort.splitMergeSort(mergeSortArray));
+        System.out.println(Arrays.toString(SplitMergeSort.splitMergeSort(mergeSortArray)));
         }
     }
