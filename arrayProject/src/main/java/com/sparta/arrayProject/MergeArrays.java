@@ -16,6 +16,15 @@ public class MergeArrays {
                 arrayIn2Count ++;
             }
         mergedArrayCount ++;}
+        while (arrayIn1Count < arrayIn1.length){
+            mergedArray[mergedArrayCount] = arrayIn1[arrayIn1Count];
+        arrayIn1Count++;
+        mergedArrayCount++;}
+        while (arrayIn2Count < arrayIn2.length){
+            mergedArray[mergedArrayCount] = arrayIn2[arrayIn2Count];
+            arrayIn2Count++;
+            mergedArrayCount++;
+        }
 
     return mergedArray;}
 }

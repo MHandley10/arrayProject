@@ -16,8 +16,8 @@ public class SplitMergeSort {
                 splitArray2[k] = arrayIn[j];
                 k++;
             }
-            splitMergeSort(splitArray1);
+            splitMergeSort((splitArray1));
             splitMergeSort(splitArray2);
         }
-    return MergeSortArrays.mergeSortArrays(splitArray1, splitArray2);}
+    return MergeSortArrays.mergeSortArrays(arrayIn, splitArray1, splitArray2);}
 }
